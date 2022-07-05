@@ -18,3 +18,10 @@ print("%d 와 %d의 합은 %d 입니다." % (a, b, plus))
 print("{} 와 {}의 합은 {}입니다.".format(a, b, plus))
 print("{} 와 {}의 나눈 값은 {:.2f}입니다.".format(a, b, div))
 ```
+    print("합은 %d 입니다." % a)
+
+    print("%d 와 %d의 합은 %d 입니다." % (a, b, plus))
+
+    print("{} 와 {}의 합은 {}입니다.".format(a, b, plus))
+
+    print("{} 와 {}의 나눈 값은 {:.2f}입니다.".format(a, b, div))
