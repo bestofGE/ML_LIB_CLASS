@@ -1,25 +1,28 @@
 # AI-groom-project 커리큘럼 
 
-PART 01 파이썬 기본 전체 리뷰 
+PART 01 파이썬 기본 전체 리뷰
+
 PART 01 파이썬 실전 프로그래밍 
-PART 01 파이썬 라이브러리 - 시각화(matplotlib, folium) 
-PART 01
-파이썬 라이브러리 - pandas
-실전 데이터 분석 - 실습(1)
- [부동산] 캘리포니아 집값 데이터 분석
+
+PART 01 파이썬 라이브러리 - 시각화(matplotlib, folium)
+        파이썬 라이브러리 - pandas
+
+PART 01 실전 데이터 분석 - 실습(1)
+        [부동산] 캘리포니아 집값 데이터 분석
 
 PART 01 실전 데이터 분석 - 실습(2)
- [과학] SpaceShip Titanic 데이터 분석 대회 도전 및 분석 
+        [과학] SpaceShip Titanic 데이터 분석 대회 도전 및 분석 
 PART 02 머신러닝 기본 - 기본 모델 만들기
- knn, 의사결정트리 이해 및 실습 
+        knn, 의사결정트리 이해 및 실습 
 PART 02 머신러닝 기본 - 앙상블 모델 이해
- RandomForest, xgboost 기본 및 실습 
+        RandomForest, xgboost 기본 및 실습 
+
 PART 01 실전 데이터 분석 - 실습(3)
- [경제/주식] ibovespa-stocks 브라질 주식 데이터 분석 
-PART 02
-머신러닝 기본 - 평가지표 알아보기
-실전 데이터 분석 - 실습(4)
- [부동산] Boston 집값 데이터 분석
+        [경제/주식] ibovespa-stocks 브라질 주식 데이터 분석 
+
+PART 02 머신러닝 기본 - 평가지표 알아보기
+        실전 데이터 분석 - 실습(4)
+        [부동산] Boston 집값 데이터 분석
 
 PART 02
 머신러닝 기본 - 평가지표 알아보기.
