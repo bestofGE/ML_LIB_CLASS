@@ -25,3 +25,5 @@ print("{} 와 {}의 나눈 값은 {:.2f}입니다.".format(a, b, div))
     print("{} 와 {}의 합은 {}입니다.".format(a, b, plus))
 
     print("{} 와 {}의 나눈 값은 {:.2f}입니다.".format(a, b, div))
+
+코드블럭 대체 어케 
