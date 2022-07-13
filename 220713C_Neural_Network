@@ -2,11 +2,12 @@
 from keras.datasets import mnist
 from keras.utils import np_utils
 
-```
+<pre><code>
 import numpy
 import sys
 import tensorflow as tf
-```
+</code></pre>
+
 # 처음 다운일 경우, 데이터 다운로드 시간이 걸릴 수 있음. 
 (X_train, y_train), (X_test, y_test) = mnist.load_data()
 print(X_train.shape, y_train.shape)
