@@ -1,9 +1,12 @@
 ### MNIST 분류 모델 만들기 - 신경망
 from keras.datasets import mnist
 from keras.utils import np_utils
+
+```
 import numpy
 import sys
 import tensorflow as tf
+```
 # 처음 다운일 경우, 데이터 다운로드 시간이 걸릴 수 있음. 
 (X_train, y_train), (X_test, y_test) = mnist.load_data()
 print(X_train.shape, y_train.shape)
@@ -15,7 +18,9 @@ print("label={}".format(y_train[0:15]))   # x데이터 0~14개 가져오기
 plt.gray()
 for image, ax in zip( X_train, axes.ravel() ):
     ax.imshow(image) # 이미지 표시
+    
 X_train = X_train.reshape(X_train.shape[0],784)   # 60000, 28, 28 -> 60000, 784로 변경
+
 # 데이터 값의 범위 0~255 -> 0~1 
 X_train.astype('float64') 
 X_train = X_train/255
